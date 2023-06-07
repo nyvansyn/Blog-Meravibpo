@@ -1,0 +1,1 @@
+01-09-2022 06:34:38 - ERROR - 7.5.0 - 48,5 MB/1.000 MB -  > cURL error 28: Resolving timed out after 5000 milliseconds (http_request_failed) - 
